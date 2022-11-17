@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm Fredy Flores
+
+Software Developer at WOTDev - #JavaScript #React #Angular - 🇬🇹
+
 #### 🌎 Find me around the web:
 - Talkin and sharing in [Twitter](https://twitter.com/fredydlemus)
 - Know about my professional profile in [Linkedin](https://www.linkedin.com/in/fredydlemus/)
