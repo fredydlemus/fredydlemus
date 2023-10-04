@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fredy Flores
 
-Software Developer at WOTDev - #JavaScript #React #Angular - 🇬🇹
+Software Developer at Zigi - #JavaScript #NestJS - 🇬🇹
 
 #### 🌎 Find me around the web:
 - Talkin and sharing in [Twitter](https://twitter.com/fredydlemus)
