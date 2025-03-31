@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fredy Flores
 
-I am a Software Engineer from Guatemala. 🇬🇹
+I am a Software Engineer from Guatemala. 🇬🇹 specializing in DevOps, with hands-on experience with tools like Docker, Kubernetes, GitHub Actions, and Terraform. I’ve used these technologies to build CI/CD pipelines, orchestrate and deploy microservices-based applications, and provision infrastructure on AWS. Sharing knowledge and experiences to help others.
 
 ### &nbsp;Certifications:
 
